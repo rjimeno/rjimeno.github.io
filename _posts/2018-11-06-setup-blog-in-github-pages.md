@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "setup-blog-in-github-pages"
+title: "Setup blog-in GitHub Pages."
 date: 2018-11-06
 ---
 
