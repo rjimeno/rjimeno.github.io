@@ -1,2 +1,3 @@
 name: Roberto Jimeno, RJ&A.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
